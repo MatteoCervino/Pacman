@@ -1,0 +1,30 @@
+html{
+    background-image: url(https://phoneky.co.uk/thumbs/screensavers/down/games/pacmangame_e35zq5dl.gif);
+}
+h1{
+    color: blue;
+    font-size: 2cm;
+    font-style: normal;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: center;
+    margin-top: 10%;
+}
+.Button{
+    text-align: center;;
+    height: 20mm;
+    width: 80mm;
+    border-color: blue;
+    color: blue;
+    background-color: black;
+    font-size: 8mm;
+    transition-duration: 400ms;
+    border-radius: 12px;
+}
+.Button:hover{
+    background-color: blue;
+    color: black;
+}
+div{
+    padding: 1%;
+    text-align: center;
+}
